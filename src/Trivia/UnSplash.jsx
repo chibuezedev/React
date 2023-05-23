@@ -3,7 +3,7 @@ import { createApi } from 'unsplash-js'
 import './UpSplash.css'
 
 const api = createApi({
-    accessKey: "lrI3GUyA6CwxBDUokWdyEIlhEPmhxFWxT7YjcFh6hxQ"
+    accessKey: ""
 })
 
 const PhotoCamp = ({ photo }) => {
